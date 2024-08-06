@@ -1,0 +1,37 @@
+{
+  "app": {
+    "theme": {
+      "dark": "Dark",
+      "light": "Light"
+    },
+    "title": {
+      "home": "Home",
+      "about": "About Us",
+      "projects": "Projects",
+      "contacts": "Contacts"
+    },
+    "content": {
+      "home-1": "Your Best Partner in Residential",
+      "home-2": "Electrical",
+      "home-3": "Solutions",
+      "home-4": "Providing Safe, Reliable, and Efficient Electrical Services for Your Home",
+      "about": {
+        "title-1": "Residential & Commercial",
+        "title-2": "Electrical Services",
+        "description": "Our commitment is to provide excellent services, focusing on safety, efficiency, and customer satisfaction. Count on us for all your residential electrical needs!",
+        "services-1": "Maintenance and Repairs",
+        "services-2": "Electrical Installations",
+        "services-3": "Electrical Panel Upgrades",
+        "services-4": "Installation of Outlets and Switches",
+        "services-5": "Electrical Consulting and Design"
+      },
+      "feedback": {
+        "title": "What our customers say:",
+        "first": "I was impressed with the team's level of knowledge and skill. They explained everything in detail and ensured everything was working perfectly before leaving.",
+        "second": "Exceptional work! The team was very attentive and efficiently solved all my electrical problems. I highly recommend them to anyone in need of quality electrical services.",
+        "third": "I couldn't be more satisfied with the service provided. Everything was done with great care and attention to detail."
+      },
+      "contact": "Request your quote"
+    }
+  }
+}

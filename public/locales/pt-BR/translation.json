@@ -1,0 +1,37 @@
+{
+  "app": {
+    "theme": {
+      "dark": "Escuro",
+      "light": "Claro"
+    },
+    "title": {
+      "home": "Início",
+      "about": "Sobre nós",
+      "projects": "Projetos",
+      "contacts": "Contatos"
+    },
+    "content": {
+      "home-1": "Seu melhor parceiro em soluções",
+      "home-2": "elétricas",
+      "home-3": "residenciais",
+      "home-4": "Oferecendo serviços elétricos seguros, confiáveis e eficientes para sua casa",
+      "about": {
+        "title-1": "Serviços elétricos",
+        "title-2": "Residenciais & Comerciais",
+        "description": "Nosso compromisso é oferecer serviços de excelência, com foco na segurança, eficiência e satisfação do cliente. Conte conosco para todas as suas necessidades elétricas residenciais!",
+        "services-1": "Manutenção e Reparos",
+        "services-2": "Instalações Elétricas",
+        "services-3": "Atualização de Painéis Elétricos",
+        "services-4": "Instalação de Tomadas e Interruptores:",
+        "services-5": "Consultoria e Projeto Elétrico"
+      },
+      "feedback": {
+        "title": "O que nossos clientes dizem:",
+        "first": "Fiquei impressionado com o nível de conhecimento e habilidade da equipe. Eles explicaram tudo detalhadamente e garantiram que tudo estava funcionando perfeitamente antes de sair.",
+        "second": "Trabalho excepcional! A equipe foi muito atenciosa e resolveu todos os meus problemas elétricos de forma eficiente. Recomendo fortemente a todos que precisam de serviços elétricos de qualidade.",
+        "third": "Não poderia estar mais satisfeita com o serviço prestado. Tudo foi feito com muito cuidado e atenção aos detalhes."
+      },
+      "contact": "Solicite seu orçamento"
+    }
+  }
+}
